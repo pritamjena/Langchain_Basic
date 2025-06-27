@@ -12,6 +12,7 @@ __pycache__/
 .ipynb_checkpoints/
 .idea/
 .vscode/
+.DS_Store
 
 # Virtual environment
 lg_env/
